@@ -6,7 +6,7 @@ Python develop
 
 * 🌍 Живу в Санкт-Петербурге
 * ✉️ Вы можете связаться со мной по почте [Devarlamov1@yandex.ru](mailto:Devarlamov1@yandex.ru)
-* <a href="https://t.me/Devarlamov">или написать мне Telegram</a>
+* 🐱‍👤 <a href="https://t.me/Devarlamov">или написать мне Telegram</a>
 
 <a href="https://www.github.com/devarlamov" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/devarlamov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Технологии
