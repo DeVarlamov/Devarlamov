@@ -11,6 +11,9 @@
 
 
 --------------
+### :man_technologist: Обо мне:
+Я заинтересовался сферой IT и решил сменить профессию, потому что мне нравится процесс создания программного обеспечения и решение сложных задач. Я увлечен процессами разработки и выбрал Python и Backend, потому что считаю, что это наиболее интересные для меня направления<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Я ищу работу Python-разработчика в дружной команде, которая готова решать сложные задачи и создавать качественное ПО 🌟
 
 * 🌍 Живу в Санкт-Петербурге
 * ✉️ Вы можете связаться со мной по почте [Devarlamov1@yandex.ru](mailto:Devarlamov1@yandex.ru)
@@ -37,7 +40,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div>
 
-### Социальные сети
+### Социальные сети 🙋‍♂️
 
 <p align="left"> <a href="https://discord.com/users/Николай В#6236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/devarlamov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/devarlamikus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
