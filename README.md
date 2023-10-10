@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Привет 👋😊 меня зовут Николай я Python develop 🐍
+Привет 👋😊 меня зовут Николай я Python Developer 🐍
 ===============================================================================================================================
 
 <div align="center">
